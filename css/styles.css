@@ -69,17 +69,15 @@ p {
   padding: 7% 15%;
 }
 
-.fa-check-circle {
+.icon {
+  color: #ef8172;
+  margin-bottom: 1rem;
+}
+
+.icon:hover {
   color: #ff4c68;
 }
 
-.fa-bullseye {
-  color: #ff4c68;
-}
-
-.fa-heart {
-  color: #ff4c68;
-}
 
 .feature-box {
   text-align: center;
