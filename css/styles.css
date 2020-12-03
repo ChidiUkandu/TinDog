@@ -52,3 +52,22 @@ h1 {
   width: 60%;
   transform: rotate(25deg);
 }
+
+
+/* Features Sections */
+
+#features {
+  padding: 7% 15%;
+}
+
+.fa-check-circle {
+  color: #ff4c68;
+}
+
+.fa-bullseye {
+  color: #ff4c68;
+}
+
+.fa-heart {
+  color: #ff4c68;
+}
